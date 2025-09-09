@@ -136,8 +136,8 @@ git push origin main
 
 ## 👤 Student Info
 
-- Name:
-- Date:
+- Name:Beenish Naseem	
+- Date:09/11/2025
 - Kali IP:
 - Metasploitable IP:
 
